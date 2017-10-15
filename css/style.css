@@ -1,15 +1,15 @@
-@import url("https://fonts.googleapis.com/css?family=Bungee+Shade");
+@import url("https://fonts.googleapis.com/css?family=Special+Elite");
 * {
-  font-family: "Bungee Shade";
+  font-family: "Special Elite";
 }
 
 body {
-  background-color:cyan;
+  background-image: url("bkg.jpg");
   color: #2c3e50;
 }
 
 h1 {
-  color: #2c3e50;
+  color: black;
   margin-top: 250px;
   font-size: 50px;
   text-align: center;
