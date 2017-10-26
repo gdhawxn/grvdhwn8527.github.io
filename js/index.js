@@ -1,4 +1,4 @@
-var message = "G a u r a v ( g r v d h w n 8 5 2 7 ) || Delhi Technological University";
+var message = "Gaurav (grvdhwn8527) || Delhi Technological University";
 var msgCount = 0;
 var blinkCount = 0;
 var blinkFlg = 0;
